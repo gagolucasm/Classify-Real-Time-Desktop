@@ -10,9 +10,9 @@ Team DeepThings (Mez Gebre and I) won the Best Product Category at the Deep Lear
 
 This is only the first prototype for Windows.
 
----
 
 The goals / steps of this project are the following:
+---
 
 * Get the Webcam feed without bottlenecks.
 * Recognize images using Inception v3.
